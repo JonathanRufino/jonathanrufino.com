@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "jonathanrufino",
+  "description": "Jonathan Rufino personal portfolio site.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^2.1.11",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
